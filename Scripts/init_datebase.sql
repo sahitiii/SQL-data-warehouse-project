@@ -30,7 +30,7 @@ USE datawarehouse;
 GO
 
 --CREATE SCHEMAS
-CREATE SCHEMA Brozen;
+CREATE SCHEMA Bronze;
 GO
   
 CREATE SCHEMA Silver;
